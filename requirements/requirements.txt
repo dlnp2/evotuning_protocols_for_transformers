@@ -1,0 +1,14 @@
+torch==1.4.0
+scikit-learn
+biopython<1.78
+tqdm
+requests
+cytoolz
+cython
+boto3
+lmdb
+typing-extensions
+pyarrow
+statsmodels
+h5py
+python-Levenshtein

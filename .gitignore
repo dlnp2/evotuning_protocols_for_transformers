@@ -1,0 +1,18 @@
+data/
+outputs/
+jobs/
+tmp/
+.venv/
+.vscode/
+__pycache__/
+notebooks/
+.pytype
+
+# UGE log files
+*.sh.o*
+*.sh.e*
+
+# singularity image
+*.img
+*.simg
+*.sif

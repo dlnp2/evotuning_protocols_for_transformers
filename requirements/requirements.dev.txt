@@ -1,0 +1,11 @@
+ipython
+ipywidgets
+matplotlib
+seaborn
+jupyterlab
+altair
+altair_saver
+isort
+black
+tensorboard
+umap-learn

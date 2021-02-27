@@ -1,0 +1,8 @@
+torch>=1.0
+tqdm
+tensorboardX
+scipy
+lmdb
+boto3
+requests
+biopython

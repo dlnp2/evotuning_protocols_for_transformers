@@ -1,0 +1,6 @@
+[submodule "src/third_party/Envision2017"]
+	path = src/third_party/Envision2017
+	url = https://github.com/FowlerLab/Envision2017.git
+[submodule "mssm/src/third_party/apex"]
+	path = src/third_party/apex
+	url = https://github.com/NVIDIA/apex.git
