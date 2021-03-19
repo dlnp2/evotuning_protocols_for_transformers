@@ -1,4 +1,4 @@
-# Evotuning protocols for Transformer-based variant effectprediction on multi-domain proteins
+# Evotuning protocols for Transformer-based variant effect prediction on multi-domain proteins
 
 ## Confirmed environment
 - Ubuntu 18.04
@@ -8,5 +8,5 @@
 - PyTorch 1.4.0
 - Biopython 1.77
 
-## Refernce
-Submitted.
+## Reference
+Evotuning protocols for Transformer-based variant effect prediction on multi-domain proteins, Hideki Yamaguchi and Yutaka Saito. bioRxiv 2021, doi: https://doi.org/10.1101/2021.03.05.434175
